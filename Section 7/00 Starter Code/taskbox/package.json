@@ -45,7 +45,7 @@
     "msw": "^1.2.1",
     "msw-storybook-addon": "^1.10.0",
     "prop-types": "^15.8.1",
-    "storybook": "^7.5.2",
+    "storybook": "^7.6.21",
     "vite": "^4.2.0"
   },
   "resolutions": {
